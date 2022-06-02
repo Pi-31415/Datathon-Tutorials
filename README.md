@@ -1,4 +1,5 @@
-# Datathon-Tutorials
+# Datathon-Tutorial
+#### Pi
 Instance Segmentation Tutorials for Datathon
 
 ## Requirements
@@ -22,7 +23,6 @@ image2 = Image.open('targ.jpg')
 
 prediction = asarray(image)
 target = asarray(image2)
-
 
 intersection = np.logical_and(target, prediction)
 union = np.logical_or(target, prediction)
