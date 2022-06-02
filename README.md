@@ -1,6 +1,5 @@
 # Datathon-Tutorial
-#### Pi
-Instance Segmentation Tutorials for Datathon
+Instance Segmentation Tutorials for Datathon - Pi
 
 ## Requirements
 
