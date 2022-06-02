@@ -3,6 +3,7 @@ Instance Segmentation Tutorials for Datathon - Pi
 
 ## Requirements
 
+- [Github and Git Setup](https://desktop.github.com/)
 - [Detectron 2](https://github.com/facebookresearch/detectron2)
 - [LabelMe](https://github.com/wkentaro/labelme/releases)
 - [Intersection Over Union](https://medium.com/mlearning-ai/intersection-over-union-threshold-whats-the-purpose-of-using-it-and-how-it-helps-in-object-1a2d74de296f#:~:text=What%20is%20Intersection%20over%20Union,perfectly%20the%20image%20is%20segmented.)
